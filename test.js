@@ -1,1 +1,1 @@
-crossOriginIsolated.log=("olá")
+conssole.log=("olá")
